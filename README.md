@@ -1,6 +1,6 @@
 <h3>👋  Welcome I'm Jung Yoon Hee</h3> <br>
 
-[![vyoonv's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyoonv)](https://github.com/vyoonv/github-readme-stats)
+[![vyoonv's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyoonv&show_icons=true&theme=gruvbox)](https://github.com/vyoonv/github-readme-stats)
 
 
 <!-- 
