@@ -1,13 +1,16 @@
-<h3 align="center">👋  Welcome I'm Jung Yoon Hee</h3> <br>
+<h3>👋  Welcome I'm Jung Yoon Hee</h3> <br>
+
+[![vyoonv's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyoonv)](https://github.com/vyoonv/github-readme-stats)
 
 
+<!-- 
 <h3 align="center">🎈 My Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">&nbsp
-<!--  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> -->
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
 </div> <br>
 
 
@@ -20,8 +23,10 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">&nbsp
 </div> <br>
 
-<h3 align="center"> 📫 How to reach me : </h3>
-<div align="center">
+-->
+
+<h3> 📫 How to reach me : </h3>
+<div>
    <a href="mailto:vyoonheejv@gmail.com">
     <img src="https://img.shields.io/badge/vyoonheejv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
