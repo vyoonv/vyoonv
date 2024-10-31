@@ -1,12 +1,9 @@
-<h3>👋  Welcome</h3> <br>
+<h3 align="center">👋  Welcome</h3> <br>
 
-[![vyoonv's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyoonv&show_icons=true&theme=gruvbox)](https://github.com/vyoonv/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyoonv&layout=compact)](https://github.com/vyoonv/github-readme-stats)
+<!-- [![vyoonv's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyoonv&show_icons=true&theme=gruvbox)](https://github.com/vyoonv/github-readme-stats) -->
 
 
 
-<!-- 
 <h3 align="center">🎈 My Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -21,18 +18,22 @@
 <div align="center">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3"><br>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp
+<!--  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp   -->
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">&nbsp
 </div> <br>
 
--->
 
-<h3> 📫 How to reach me : </h3>
-<div>
+<h3 align="center"> 📫 How to reach me : </h3>
+<div align="center">
    <a href="mailto:vyoonheejv@gmail.com">
     <img src="https://img.shields.io/badge/vyoonheejv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+</div> <br><br>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyoonv&layout=compact">
 </div>
 
 
